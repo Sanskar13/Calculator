@@ -1,0 +1,51 @@
+.text-center{
+  text-align : center;
+}
+
+.bg-red{
+  background : red;
+}
+
+.mx-auto{
+  margin : auto;
+}
+
+.m-w-20{
+  max-width : 31vw;
+}
+/* 
+// using flexbox to align items center and justify content // center */
+
+.flex{
+  display : flex;
+}
+
+.flex-col{
+  flex-direction : column;
+}
+
+.item-center{
+  align-item : center;
+}
+
+.row input{
+      width: 257px;
+    height: 16px;
+    font-size : 23px;
+    margin: 0px 9px;
+    padding: 11px 0px;
+    border: 2px solid black;
+    border-radius: 5px;  
+}
+.newn{
+  margin : 8px 0;
+  padding : 2px;
+}
+
+/* .ac{
+      width: 5%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 2%;
+} */
